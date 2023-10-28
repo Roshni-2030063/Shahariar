@@ -1,0 +1,110 @@
+body{
+    font-family: 'Trebuchet MS';
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+    color: orange;
+}
+h2{
+    font-weight: 600;
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+    color: dimgray;
+}
+.div_section{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.div_section img{
+    width: 100%;
+}
+.link_design{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    background-image: linear-gradient(45deg, yellow, orange);
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: 700;
+}
+
+section{
+    height: 500px;
+    padding: 150px;
+
+}
+.top_banner{
+    background-image: url("personal-website/header-bg.png");
+    background-repeat: no-repeat;
+}
+
+.middle_banner{
+    background-image: url("personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.div_section_new{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+   
+}
+.div_section_new img{
+    width: 100%;
+}
+
+.h2_center{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.third_banner{
+    background-image: url("personal-website/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+
+.shadow{
+    box-shadow: 10px 10px  40px yellow;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.change_para{
+    text-align: center;
+    width: 50%;
+    display: block;
+    margin: auto;
+    
+}
+h4{
+    font-size: 20px;
+}
+.email_button{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    background-image: linear-gradient(45deg, yellow, orange);
+    border-radius: 5px;
+    padding: 50px;
+    font-weight: 800;
+    margin: 10px;
+}
+
+#heading_four{
+   padding-bottom: 50px;
+
+}
+
+.last_banner{
+    background-image: url("personal-website/footer-bg.png");
+    background-repeat: no-repeat;
+}
+footer{
+    text-align: center;
+
+}
